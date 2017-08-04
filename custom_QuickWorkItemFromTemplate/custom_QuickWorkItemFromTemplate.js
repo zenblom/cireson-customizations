@@ -1,7 +1,7 @@
 /* ------------------------------------------------------- */
 /* -------------- Custom Quick From Template ------------- */
 /* ------------------------------------------------------- */
-// Tested with portal v7.2.2016.1
+// Tested with portal v7.2.2016.1, v7.4.2016.1 & v8.1.0.2016
 // Author: Martin Blomgren
 // Description: Adds a custom add button to quickly create IR or SR from filtered templates in modal window.
 // v0.2 Added possibility to filter templates dynamically based on analysts support group memberships name
@@ -9,7 +9,7 @@
 
 (function() {
 //##################### CHANGE THESE VARIABLES TO MATCH YOUR SETTINGS #########################################//
-var customServiceRequestArea = true;                // Use custom extended area for service requests
+var customServiceRequestArea = false;                // Use custom extended area for service requests
 var ServiceRequestArea = "CustomArea";              // Custom extended area name
 
 // only select one of the below!!
