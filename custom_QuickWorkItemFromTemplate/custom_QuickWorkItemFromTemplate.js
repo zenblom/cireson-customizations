@@ -12,7 +12,7 @@
 var customServiceRequestArea = false;                // Use custom extended area for service requests
 var ServiceRequestArea = "CustomArea";              // Custom extended area name
 
-// only select one of the below!!
+// only select one of the filter by analyst groups or text to true!!
 var filterInNameOrDescription = "Name"              // SupportGroup or Keyword must exist in "Name" or "Description"
 var filterTemplatesByAnalystGroups = true;          // Should we filter the templates by user group names, true/false
 var filterTemplatesByText = false;                  // Should we filter the templates by keyword, true/false
