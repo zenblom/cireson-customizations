@@ -1,6 +1,6 @@
 # Custom Quick From Template
 
-Adds a custom add button to quickly create IR or SR from filtered templates in modal window.
+Adds a pager at the top for builtin workitem pages with a grid.
 
 ![Demo](https://zenblom.github.io/custom_GridTopPager.png)
 
