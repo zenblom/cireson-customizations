@@ -1,4 +1,4 @@
-# Custom Quick From Template
+# Custom Grid Top Pager
 
 Adds a pager at the top for builtin workitem pages with a grid.
 
