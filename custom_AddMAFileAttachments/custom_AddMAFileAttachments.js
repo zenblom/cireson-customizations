@@ -85,7 +85,7 @@ function AddMAFileAttachments(viewModel) {
       '		</div>' +
       '	</div>' +
       '</div>';
-    $('div[data-activity-id="MA66"]').next('.activity-item-body').find('.activity-item-form').append(html);
+    $('div[data-activity-id=' + id + ']').next('.activity-item-body').find('.activity-item-form').append(html);
 
     $.getJSON('/api/V3/Projection/GetProjection?id=' + id + '&typeProjectionId=' + CustomManualActivityTypeProjection, function (data) {
       // Add attachments to html here and perhaps a download button for each attachment
