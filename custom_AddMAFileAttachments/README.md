@@ -2,7 +2,7 @@
 
 Adds a section in manual activities with the related file attachments as downloadable links.
 
-![Demo](https://zenblom.github.io/custom_AddMAFileAttachments.png)
+![Demo](https://raw.githubusercontent.com/zenblom/cireson-customizations/master/custom_AddMAFileAttachments/custom_AddMAFileAttachments.png)
 
 Tested with portal v8.4.3.2016 and Chrome v67 + IE11.
 
