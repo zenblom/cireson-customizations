@@ -2,7 +2,7 @@
 
 Adds a custom add button to quickly create IR or SR from filtered templates in modal window.
 
-![Demo](https://zenblom.github.io/QuickWorkItemFromTemplate.gif)
+![Demo](https://raw.githubusercontent.com/zenblom/cireson-customizations/master/custom_QuickWorkItemFromTemplate/QuickWorkItemFromTemplate.gif)
 
 Tested with portal v7.2.2016.1, v7.4.2016.1 & v8.1.0.2016
 
