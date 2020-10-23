@@ -2,7 +2,7 @@
 
 Adds a pager at the top for builtin workitem pages with a grid.
 
-![Demo](https://zenblom.github.io/custom_GridTopPager.png)
+![Demo](https://raw.githubusercontent.com/zenblom/cireson-customizations/master/custom_GridTopPager/custom_GridTopPager.png)
 
 Tested with portal v8.2.0.2016
 
